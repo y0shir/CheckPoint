@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-target/
+!target/
 !/src/main//target/
 !/src/test//target/
 
